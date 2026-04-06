@@ -106,7 +106,8 @@ src/
 ---
 
 ## 🔗 Related
-
 - [Backend Repo]() — Node + Express + Socket.io + PostgreSQL (not yet done rn developing frontend)
 - [MUI Docs](https://mui.com/material-ui/)
 - [Socket.io Client Docs](https://socket.io/docs/v4/client-api/)
+
+NOTE : Currently the project is under development and not complete
